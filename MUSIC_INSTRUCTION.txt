@@ -1,0 +1,21 @@
+INSTRUKSI PENAMBAHAN MUSIK
+===========================
+
+File musik tidak ditemukan dalam upload. Untuk menambahkan musik latar:
+
+1. Siapkan file musik MP3 Anda
+2. Rename file menjadi: The_Beatles_-_I_Will__cover__-_rendypandugo_-_SoundLoadMate_com.mp3
+   ATAU
+3. Edit file MyCandi.html baris ~90 dan ganti dengan nama file musik Anda:
+   
+   <source src="NAMA_FILE_MUSIK_ANDA.mp3" type="audio/mpeg">
+
+4. Upload file musik ke folder yang sama dengan file HTML
+
+REKOMENDASI MUSIK:
+- The Beatles - I Will (Cover)
+- Atau musik instrumental romantis lainnya
+- Format: MP3
+- Durasi: 2-5 menit (akan loop otomatis)
+
+Jika tidak ingin menambahkan musik, website akan tetap berfungsi normal tanpa audio.
